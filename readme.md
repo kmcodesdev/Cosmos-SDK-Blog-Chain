@@ -1,4 +1,4 @@
-#Built a Blog with Ignite CLI
+# Built a Blog with Ignite CLI
 
 ![Screenshot 2022-04-20 at 05 52 39](https://user-images.githubusercontent.com/103285633/164149814-618cccde-74a0-4586-b342-36a2700bf381.png)
 
